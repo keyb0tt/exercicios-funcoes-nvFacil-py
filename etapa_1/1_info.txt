@@ -1,0 +1,13 @@
+🔹 1. Funções Simples (sem parâmetros e sem retorno)
+
+Objetivo: aprender a definir e chamar funções.
+
+Crie uma função chamada saudacao() que mostre na tela “Olá, seja bem-vindo!”.
+
+Crie uma função mensagem() que exiba seu nome e curso na tela.
+
+Faça uma função linha() que mostre uma linha decorativa (ex: “-” * 30).
+
+Crie uma função cabecalho() que mostre um título formatado, com linhas acima e abaixo.
+
+Crie uma função contador() que exiba os números de 1 a 10.com
