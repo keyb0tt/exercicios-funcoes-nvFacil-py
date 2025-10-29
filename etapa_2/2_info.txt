@@ -1,0 +1,13 @@
+🔹 2. Funções com Parâmetros
+
+Objetivo: trabalhar com argumentos e parâmetros.
+
+Crie uma função soma(a, b) que receba dois números e mostre a soma deles.
+
+Crie uma função quadrado(n) que receba um número e mostre seu quadrado.
+
+Crie uma função mensagem_nome(nome) que receba um nome e mostre uma saudação personalizada.
+
+Crie uma função par_ou_impar(num) que informe se um número é par ou ímpar.
+
+Crie uma função maior(a, b) que receba dois números e mostre qual é o maior.
