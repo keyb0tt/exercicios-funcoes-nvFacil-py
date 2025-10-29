@@ -1,0 +1,13 @@
+🔹 3. Funções com Retorno
+
+Objetivo: usar return para devolver valores.
+
+Crie uma função dobro(n) que retorne o dobro de um número.
+
+Crie uma função media(a, b, c) que calcule e retorne a média de três números.
+
+Crie uma função area_retangulo(base, altura) que retorne a área do retângulo.
+
+Crie uma função fatorial(n) que calcule e retorne o fatorial de um número.
+
+Crie uma função eh_primo(n) que retorne True se o número for primo, e False caso contrário.
