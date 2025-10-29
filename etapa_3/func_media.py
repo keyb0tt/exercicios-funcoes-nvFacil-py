@@ -9,10 +9,9 @@ def media(a, b, c):
 
     return media
 
-
 a = 10
 b = 10
 c = 13
 
 media_num = media(a, b, c)
-print(media_num)
+print(f'{media_num}')
