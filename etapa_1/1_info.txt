@@ -10,4 +10,4 @@ Faça uma função linha() que mostre uma linha decorativa (ex: “-” * 30).
 
 Crie uma função cabecalho() que mostre um título formatado, com linhas acima e abaixo.
 
-Crie uma função contador() que exiba os números de 1 a 10.com
+Crie uma função contador() que exiba os números de 1 a 10.
