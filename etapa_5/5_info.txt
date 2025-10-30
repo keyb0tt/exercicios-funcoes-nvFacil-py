@@ -1,0 +1,7 @@
+🔹 5. Funções com Estruturas e Lógica Simples
+
+Objetivo: combinar funções com condicionais, loops e listas.
+
+Crie uma função contar_vogais(texto) que conte e retorne o número de vogais em uma string.
+
+Crie uma função soma_lista(lista) que receba uma lista de números e retorne a soma total.
