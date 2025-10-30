@@ -1,0 +1,9 @@
+🔹 4. Funções com Parâmetros Opcionais / Valores Padrão
+
+Objetivo: praticar parâmetros com valores padrão e nomeados.
+
+Crie uma função saudar(nome="Visitante") que mostre uma mensagem de boas-vindas, usando o nome fornecido (ou “Visitante” por padrão).
+
+Crie uma função potencia(base, expoente=2) que calcule a potência de um número (padrão é ao quadrado).
+
+Crie uma função imprimir_lista(lista, titulo="Minha Lista") que mostre um título e depois todos os elementos da lista.
