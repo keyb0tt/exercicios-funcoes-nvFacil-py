@@ -1,10 +1,11 @@
 # Crie uma função fatorial(n) que calcule e retorne o fatorial de um número.
 import numpy as np
+import math
 import os
 os.system('clear')
 
 def fatorial(n):
-    resultado_fatorial = np.math.factorial(n)
+    resultado_fatorial = math.factorial(n)
 
     return resultado_fatorial
 
