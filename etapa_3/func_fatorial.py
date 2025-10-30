@@ -1,5 +1,4 @@
 # Crie uma função fatorial(n) que calcule e retorne o fatorial de um número.
-import numpy as np
 import math
 import os
 os.system('clear')
