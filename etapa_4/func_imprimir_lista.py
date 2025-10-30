@@ -9,4 +9,5 @@ def imprimir_lista(lista, titulo="Minha Lista"):
     print(f'---------------------------------------------------\n')
 
 lista = ['Arroz', 'Fejao', 'Batata', 'Betoneira']
+
 imprimir_lista(lista)
