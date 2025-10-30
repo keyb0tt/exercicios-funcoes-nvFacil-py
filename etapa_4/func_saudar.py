@@ -3,5 +3,8 @@
 import os
 os.system('clear')
 
-def saudar(nome="Visitante"):
-    
+def saudar(nome='Visitante'):
+    print(f'Boas-vindas, {nome}!')
+
+saudar()
+saudar('Toninho')
